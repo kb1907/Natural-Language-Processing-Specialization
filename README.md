@@ -5,7 +5,7 @@ Natural Language Processing Specialization - Projects- Notes
 
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
 
-### WHAT  I LEARN
+### WHAT  I LEARNED
 
 - Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies & translate words.
 
