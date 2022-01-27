@@ -35,9 +35,9 @@ Natural Language Processing Specialization - Projects- Notes
 
 - [In the first course of the Natural Language Processing Specialization](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
 
-a) I performed sentiment analysis of tweets using logistic regression and then naïve Bayes, 
-b) I used vector space models to discover relationships between words and used PCA to reduce the dimensionality of the vector space and visualize those relationships, and
-c) I wrote a simple English to French translation algorithm using pre-computed word embeddings and locality-sensitive hashing to relate words via approximate k-nearest neighbor search.  
+- I performed sentiment analysis of tweets using logistic regression and then naïve Bayes, 
+- I used vector space models to discover relationships between words and used PCA to reduce the dimensionality of the vector space and visualize those relationships, and
+- I wrote a simple English to French translation algorithm using pre-computed word embeddings and locality-sensitive hashing to relate words via approximate k-nearest neighbor search.  
 
 **Projects**
 --------------
