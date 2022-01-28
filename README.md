@@ -66,22 +66,22 @@ Natural Language Processing Specialization - Projects- Notes
 
 
 
-## [Course 2 Natural Language Processing with Probabilistic Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models)
+## [Course 3 Natural Language Processing with Sequence Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Sequence%20Models)
 
 
-- [In the second course of the Natural Language Processing Specialization](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing)
+- [In the third course of the Natural Language Processing Specialization](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
 
-- I wrote a simple auto-correct algorithm using minimum edit distance and dynamic programming,
-- I applied the Viterbi Algorithm for part-of-speech (POS) tagging, which is vital for computational linguistics,
-- I wrote a better auto-complete algorithm using an N-gram language model, and 
-- I wrote my own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model.
+- I trained a neural network with GLoVe word embeddings to perform sentiment analysis of tweets,
+- I generated synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model,
+- I trained a recurrent neural network to perform named entity recognition (NER) using LSTMs with linear layers, and 
+- I used so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning.
 
 **Projects**
 --------------
-- [Auto-correct algorithm using minimum edit distance and dynamic programming](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week1/Programming%20Assignment_Autocorrect.ipynb)
-- [Parts-of-Speech Tagging (POS)](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week2/Programming%20Assignment_Part%20of%20Speech%20Tagging.ipynb)
-- [Auto-complete algorithm using an N-gram language model](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week3/Programming%20Assignment_Autocomplete.ipynb)
-- [Word Embeddings- Continuous Bag of Words (CBOW) model](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week4/Programming%20Assignment_Word%20Embeddings.ipynb)
+- [Sentiment Analysis with Deep Neural Networks](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Sequence%20Models/Week1/Programming%20Assignment_Sentiment%20with%20Deep%20Neural%20Networks.ipynb)
+- [Synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Sequence%20Models/Week2/Programming%20Assignment_Deep%20N-grams.ipynb)
+- [Named Entity Recognition (NER) using LSTM](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Sequence%20Models/Week3/Programming%20Assignment_Named%20Entity%20Recognition%20(NER).ipynb)
+- [Question duplicates using Siamese LSTM models](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Sequence%20Models/Week4/Programming%20Assignment_Question%20Duplicates.ipynb)
 
 
 
