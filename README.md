@@ -47,6 +47,45 @@ Natural Language Processing Specialization - Projects- Notes
 - [Naive Machine Translation and LSH](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week4/Programming%20Assignment_Word%20Translation.ipynb)
 
 
+## [Course 2 Natural Language Processing with Probabilistic Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models)
+
+
+- [In the second course of the Natural Language Processing Specialization](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing)
+
+- I wrote a simple auto-correct algorithm using minimum edit distance and dynamic programming,
+- I applied the Viterbi Algorithm for part-of-speech (POS) tagging, which is vital for computational linguistics,
+- I wrote a better auto-complete algorithm using an N-gram language model, and 
+- I wrote my own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model.
+
+**Projects**
+--------------
+- [Auto-correct algorithm using minimum edit distance and dynamic programming](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week1/Programming%20Assignment_Autocorrect.ipynb)
+- [Parts-of-Speech Tagging (POS)](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week2/Programming%20Assignment_Part%20of%20Speech%20Tagging.ipynb)
+- [Auto-complete algorithm using an N-gram language model](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week3/Programming%20Assignment_Autocomplete.ipynb)
+- [Word Embeddings- Continuous Bag of Words (CBOW) model](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week4/Programming%20Assignment_Word%20Embeddings.ipynb)
+
+
+
+## [Course 2 Natural Language Processing with Probabilistic Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models)
+
+
+- [In the second course of the Natural Language Processing Specialization](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing)
+
+- I wrote a simple auto-correct algorithm using minimum edit distance and dynamic programming,
+- I applied the Viterbi Algorithm for part-of-speech (POS) tagging, which is vital for computational linguistics,
+- I wrote a better auto-complete algorithm using an N-gram language model, and 
+- I wrote my own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model.
+
+**Projects**
+--------------
+- [Auto-correct algorithm using minimum edit distance and dynamic programming](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week1/Programming%20Assignment_Autocorrect.ipynb)
+- [Parts-of-Speech Tagging (POS)](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week2/Programming%20Assignment_Part%20of%20Speech%20Tagging.ipynb)
+- [Auto-complete algorithm using an N-gram language model](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week3/Programming%20Assignment_Autocomplete.ipynb)
+- [Word Embeddings- Continuous Bag of Words (CBOW) model](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week4/Programming%20Assignment_Word%20Embeddings.ipynb)
+
+
+
+
 
 
 
