@@ -1,7 +1,7 @@
 # Natural Language Processing Specialization
 Natural Language Processing Specialization - Projects- Notes
 
-**-----------------------------------------------------------------------------------**
+-----------------------------------------------------------------------------------
 
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
 
@@ -46,6 +46,7 @@ Natural Language Processing Specialization - Projects- Notes
 - [Vector Space Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week3/Programming%20Assignment_Vector%20Space%20Models.ipynb)
 - [Naive Machine Translation and LSH](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week4/Programming%20Assignment_Word%20Translation.ipynb)
 
+------------------------------------------------
 
 ## [Course 2 Natural Language Processing with Probabilistic Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models)
 
@@ -65,6 +66,7 @@ Natural Language Processing Specialization - Projects- Notes
 - [Word Embeddings- Continuous Bag of Words (CBOW) model](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week4/Programming%20Assignment_Word%20Embeddings.ipynb)
 
 
+-------------------------------------------------
 
 ## [Course 3 Natural Language Processing with Sequence Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Sequence%20Models)
 
@@ -85,7 +87,7 @@ Natural Language Processing Specialization - Projects- Notes
 
 
 
-
+---------------------------------------------------
 
 
 ## [Course 4 Natural Language Processing with Attention Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Attention%20Models)
