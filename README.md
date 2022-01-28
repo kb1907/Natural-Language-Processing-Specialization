@@ -1,5 +1,6 @@
 # Natural Language Processing Specialization
-Natural Language Processing Specialization - Projects- Notes
+
+- In this folder, [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) projects and notes can be found.
 
 -----------------------------------------------------------------------------------
 
@@ -17,15 +18,6 @@ Natural Language Processing Specialization - Projects- Notes
 - Use encoder-decoder, causal, & self-attention to machine translate complete sentences, summarize text, build chatbots & question-answering.
 
 
-
-### Reference
---------------------------
-
-- In this folder, [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) projects and notes can be found.
-
-- **DeepLearning.AI** makes these slides available for educational purposes. 
-
-- All the best 🤘
 
 
 ## There are 4 Courses in this Specialization
@@ -110,7 +102,10 @@ Natural Language Processing Specialization - Projects- Notes
 
 ------------------------------------------------
 
+### Disclaimer
+------------------------------------
+- **DeepLearning.AI** makes these slides available for educational purposes. 
+- Project solutions are just for educational purposes. I highly recommend trying and solving project/program assignments on your own.
 
 All the best 🤘
-
 
