@@ -31,7 +31,7 @@ Natural Language Processing Specialization - Projects- Notes
 ## There are 4 Courses in this Specialization
 --------------------------------------------------
 
-## [Course 1 Natural Language Processing with Classification and Vector Spaces](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
+## [Course 1 -  Natural Language Processing with Classification and Vector Spaces](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
 
 - [In the first course of the Natural Language Processing Specialization](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
 
@@ -41,14 +41,14 @@ Natural Language Processing Specialization - Projects- Notes
 
 **Projects**
 --------------
-- [Sentiment analysis of tweets using Logistic Regression](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week1/Programming_Assignment_Logistic-Regression.ipynb)
-- [Sentiment analysis of tweets using Naïve Bayes](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week2/Programming%20Assignment_Naive%20Bayes.ipynb)
+- [Sentiment Analysis of Tweets using Logistic Regression](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week1/Programming_Assignment_Logistic-Regression.ipynb)
+- [Sentiment Analysis of Tweets using Naïve Bayes](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week2/Programming%20Assignment_Naive%20Bayes.ipynb)
 - [Vector Space Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week3/Programming%20Assignment_Vector%20Space%20Models.ipynb)
 - [Naive Machine Translation and LSH](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week4/Programming%20Assignment_Word%20Translation.ipynb)
 
 ------------------------------------------------
 
-## [Course 2 Natural Language Processing with Probabilistic Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models)
+## [Course 2 -  Natural Language Processing with Probabilistic Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models)
 
 
 - [In the second course of the Natural Language Processing Specialization](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing)
@@ -68,7 +68,7 @@ Natural Language Processing Specialization - Projects- Notes
 
 -------------------------------------------------
 
-## [Course 3 Natural Language Processing with Sequence Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Sequence%20Models)
+## [Course 3 - Natural Language Processing with Sequence Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Sequence%20Models)
 
 
 - [In the third course of the Natural Language Processing Specialization](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
@@ -90,7 +90,7 @@ Natural Language Processing Specialization - Projects- Notes
 ---------------------------------------------------
 
 
-## [Course 4 Natural Language Processing with Attention Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Attention%20Models)
+## [Course 4 - Natural Language Processing with Attention Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Attention%20Models)
 
 
 - [In the fourth course of the Natural Language Processing Specialization](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
