@@ -88,4 +88,25 @@ Natural Language Processing Specialization - Projects- Notes
 
 
 
+## [Course 4 Natural Language Processing with Attention Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Attention%20Models)
+
+
+- [In the fourth course of the Natural Language Processing Specialization](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
+
+- I translated complete English sentences into German using an encoder-decoder attention model,
+- I built a Transformer model to summarize text, 
+- I used T5 and BERT models to perform question-answering, and
+- I built a chatbot using a Reformer model. 
+
+
+**Projects**
+--------------
+- [Neural Machine Translation using an Encoder-Decoder Attention Model](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Attention%20Models/Week1/Programming%20Assignment_NMT%20with%20Attention.ipynb)
+- [Transformer Summarizer](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Attention%20Models/Week2/Programming%20Assignment_Transformer%20Summarizer.ipynb)
+- [Question Answering using Text to Text Transfer from Transformers and BERT models](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Attention%20Models/Week3/Programming%20Assignment_Question%20Answering.ipynb)
+- [Chatbot](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Attention%20Models/Week4/Programming%20Assignment_Chatbot.ipynb)
+
+
+- All the best 🤘
+
 
