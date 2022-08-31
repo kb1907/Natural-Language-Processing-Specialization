@@ -9,6 +9,7 @@
 ## WHAT  I LEARNED
 --------------------------------------
 
+
 - Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies & translate words.
 
 - Use dynamic programming, hidden Markov models, and word embeddings to implement autocorrect, autocomplete & identify part-of-speech tags for words.
@@ -19,6 +20,7 @@
 
 ## There are 4 Courses in this Specialization
 --------------------------------------------------
+
 
 
 ## [Course 1 -  Natural Language Processing with Classification and Vector Spaces](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
