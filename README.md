@@ -9,7 +9,6 @@
 ## WHAT  I LEARNED
 --------------------------------------
 
-
 - Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies & translate words.
 
 - Use dynamic programming, hidden Markov models, and word embeddings to implement autocorrect, autocomplete & identify part-of-speech tags for words.
