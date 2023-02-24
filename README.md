@@ -3,7 +3,6 @@
 - In this folder, [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) projects and notes can be found.
 
 -----------------------------------------------------------------------------------
-
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
 
 ## WHAT  I LEARNED
