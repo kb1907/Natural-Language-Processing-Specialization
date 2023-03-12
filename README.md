@@ -20,7 +20,6 @@
 ## There are 4 Courses in this Specialization
 --------------------------------------------------
 
-
 ## [Course 1 -  Natural Language Processing with Classification and Vector Spaces](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
 
 - [In the first course of the Natural Language Processing Specialization](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
