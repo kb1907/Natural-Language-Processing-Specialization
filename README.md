@@ -2,7 +2,6 @@
 
 - In this folder, [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) projects and notes can be found.
 
- 
 -----------------------------------------------------------------------------------
 <img src="https://github.com/kb1907/kb1907/assets/51021282/b9128907-05cf-4d37-95df-6b9ad2674730" width="300" height="300">
 
