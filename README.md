@@ -5,6 +5,7 @@
 <img src="https://github.com/kb1907/kb1907/assets/51021282/b9128907-05cf-4d37-95df-6b9ad2674730" width="300" height="300">
 
 
+
 ## WHAT  I LEARNED
 --------------------------------------
 
@@ -14,7 +15,7 @@
 
 - Use recurrent neural networks, LSTMs, GRUs & Siamese networks in Trax for sentiment analysis, text generation & named entity recognition.
 
-- Use encoder-decoder, causal, & self-attention to machine translate complete sentences, summarize text, build chatbots & question-answering.
+- Use encoder-decoder, causal, & self-attention to machine translate complete sentences, summarize text, build chatbots, & question-answering.
 
 
 ## There are 4 Courses in this Specialization
