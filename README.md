@@ -34,7 +34,6 @@
 - [Sentiment Analysis of Tweets using Naïve Bayes](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week2/Programming%20Assignment_Naive%20Bayes.ipynb)
 - [Vector Space Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week3/Programming%20Assignment_Vector%20Space%20Models.ipynb)
 - [Naive Machine Translation and LSH](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week4/Programming%20Assignment_Word%20Translation.ipynb)
-
 ------------------------------------------------
 
 ## [Course 2 -  Natural Language Processing with Probabilistic Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/tree/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models)
