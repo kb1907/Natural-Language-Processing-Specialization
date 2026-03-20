@@ -102,7 +102,7 @@
 ### Disclaimer
 ------------------------------------
 - **DeepLearning.AI** makes course notes available for educational purposes. 
-- Project solutions are just for educational purposes. I highly recommend trying and solving project/program assignments on your own.
+- Project solutions are just for educational purposes. I highly recommend trying to solve project/program assignments on your own.
 
 All the best
 
