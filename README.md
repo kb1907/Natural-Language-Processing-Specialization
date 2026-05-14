@@ -46,6 +46,7 @@
 - I wrote a better auto-complete algorithm using an N-gram language model, and 
 - I wrote my own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model.
 
+
 **Projects**
 --------------
 - [Auto-correct algorithm using minimum edit distance and dynamic programming](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week1/Programming%20Assignment_Autocorrect.ipynb)
